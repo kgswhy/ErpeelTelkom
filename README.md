@@ -65,3 +65,7 @@ Jalankan server pengembangan menggunakan perintah:
 
 ```bash
 php artisan serve
+```
+## kalo ada yang error
+[Jika Anda mengalami masalah atau memiliki pertanyaan lebih lanjut, jangan ragu untuk menghubungi kami melalui WhatsApp di nomor berikut:](https://wa.me/6285758502769)
+
